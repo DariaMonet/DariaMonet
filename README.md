@@ -1,4 +1,4 @@
-👩🏻‍💻  Hi, I’m Daria, a Web developer and product designer who loves to learn, create, and explore. 
+👩🏻‍💻  Hi, I’m Daria, a Web developer and product designer who loves to learn, create and explore. 
 When I'm not coding, you can find me designing graphics, planning get-togethers, travelling the world, scribling my ideas, or making my favorite dishes.
 
 👀  I’m interested in Web Development and UX Desigm
