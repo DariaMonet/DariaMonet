@@ -11,7 +11,7 @@ HTML5 CSS JS React Bash
 *Design Tools* :
 Figma Sketch 
 
-☁️  ** I’m currently learning Cloud Architectures ** ☁️
+☁️  I’m currently learning Cloud Architectures  ☁️
 
 My favorite (programming related) quote: 
 Documentation is like family. 
