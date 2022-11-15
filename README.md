@@ -1,7 +1,6 @@
-👩🏻‍💻  - Hi, I’m Daria, I’m interested in Web Development and UX Design : I love to build aesthetic websites.
+👩🏼‍💻 Hi, I’m Daria
 
-*Tech Stack* :
-JS (React), HTML5, - currenly mastering Python 
+✨ Creating magic with JS libraries and Liquid - currenly mastering Python 
 
 Join Nudie NFT Community, discover more on https://www.nudiecommunity.io/
 
